@@ -1,0 +1,8 @@
+[package]
+name = "shodan"
+version = "0.1.0"
+authors = ["Femi Agbabiaka <femi@femiagbabiaka.xyz>"]
+
+[dependencies]
+hyper = "0.10.0"
+hyper-native-tls = "0.2.1"
