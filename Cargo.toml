@@ -2,6 +2,8 @@
 name = "shodan"
 version = "0.1.0"
 authors = ["Femi Agbabiaka <femi@femiagbabiaka.xyz>"]
+license = "GPL-3.0"
+description = "A Rusty wrapper for the Shodan.io API."
 
 [dependencies]
 hyper = "0.10.0"
